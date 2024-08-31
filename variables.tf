@@ -28,7 +28,7 @@ variable "settings" {
 }
 
 variable "my_ip" {
-  default = "109.201.189.68"
+  default = ""
 }
 
 variable "vpc_cidr" {
